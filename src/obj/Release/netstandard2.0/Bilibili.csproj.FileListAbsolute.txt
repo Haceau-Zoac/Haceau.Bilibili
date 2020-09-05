@@ -1,0 +1,8 @@
+G:\code\CSharp\Haceau.Bilibili\bin\Release\netstandard2.0\Bilibili.deps.json
+G:\code\CSharp\Haceau.Bilibili\bin\Release\netstandard2.0\Bilibili.dll
+G:\code\CSharp\Haceau.Bilibili\bin\Release\netstandard2.0\Bilibili.pdb
+G:\code\CSharp\Haceau.Bilibili\obj\Release\netstandard2.0\Bilibili.AssemblyInfoInputs.cache
+G:\code\CSharp\Haceau.Bilibili\obj\Release\netstandard2.0\Bilibili.AssemblyInfo.cs
+G:\code\CSharp\Haceau.Bilibili\obj\Release\netstandard2.0\Bilibili.csproj.CoreCompileInputs.cache
+G:\code\CSharp\Haceau.Bilibili\obj\Release\netstandard2.0\Bilibili.dll
+G:\code\CSharp\Haceau.Bilibili\obj\Release\netstandard2.0\Bilibili.pdb
