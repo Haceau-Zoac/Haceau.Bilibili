@@ -10,7 +10,7 @@ Haceau.Bilibili是一个封装了bilibili api的类库。开源协议为MIT。
 
 使用
 ---
-1. 导入dll文件（在[Release](https://github.com/Haceau-Zoac/Haceau.Bilibili/releases/tag/v1.0.0)里）
+1. 下载 NuGet 包 `Haceau.Bilibili`
 2. 添加using Haceau.Bilibili
 3. 尽情使用吧~
 
